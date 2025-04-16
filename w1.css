@@ -1,0 +1,555 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn1s {
+    border: none;
+    background-color: transparent;
+    color: gray;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: normal;
+    font-weight: 400;
+    line-height: 24.8px;
+    font-size: 16px;
+}
+
+.btn1s:hover {
+    color: white;
+}
+
+.download-btn {
+    border: 0.1px solid blue;
+    border-radius: 70px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    background-color: rgb(6, 17, 33);
+    color: #F4F4F4;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.download-btn:hover {
+    cursor: default;
+    background-color: rgb(35, 39, 58);
+
+}
+
+
+
+.browser-btn {
+    border: none;
+    color: gray;
+    background-color: transparent;
+    width: 22px;
+    height: 22px;
+    padding-top: 5px;
+    padding-right: 40px;
+}
+
+.brwser-img {
+    width: 22px;
+    height: 22px;
+}
+
+.browser-btn:hover {
+    color: white;
+}
+
+.img-icon {
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+
+.crypto-head {
+    background-color: #0B1426;
+    color: white;
+    border: none;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.idkiahai {
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+    padding: 0px 10px 10px 10px;
+}
+
+.ptanhiayr {
+    text-align: center;
+    color: white;
+    padding-top: 120px;
+}
+
+.iphone {
+    width: 470px;
+    height: 940px;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+/* .imgphone {} */
+
+.grntxt {
+    color: #1199FA;
+}
+
+.btnkabap {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    gap: 20px;
+}
+
+.newhai {
+    background-color: #0577DA;
+    color: #FFFFFF;
+    border-radius: 100%;
+    font-size: 10px;
+    padding: 3px;
+    font-weight: bolder;
+    font-stretch: expanded;
+}
+
+
+
+.ptanhyiii {
+    color: white;
+    font-weight: bold;
+    font-size: 85;
+
+}
+
+.ptanhyiii h1 {
+    text-align: center;
+}
+
+.penyyk {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+
+.download-btn2 {
+    border: 0.1px solid white;
+    border-radius: 70px;
+    padding: 5px 20px 10px 20px;
+    background-color: transparent;
+    color: #F4F4F4;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.download-btn2:hover {
+    cursor: pointer;
+}
+
+.download-btn3 {
+    border: 0.1px solid white;
+    border-radius: 70px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    background-color: transparent;
+    color: #F4F4F4;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.download-btn3:hover {
+    background-color: rgb(35, 39, 58);
+    transition: 0.2s;
+}
+
+.fbg1 {
+    border: 2px solid lightslategray;
+    border-radius: 20px;
+    padding: 10%;
+    background-image: url(/win-btc.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.fbg2 {
+    border: 2px solid lightslategray;
+    border-radius: 20px;
+    height: 510px;
+    padding: 10%;
+    justify-items: center;
+    background-image: url(/dual-invest-mobile.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.bgtxt {
+    color: white;
+    font-weight: bolder;
+}
+
+.bgtxt2 {
+    color: #C9CFDD;
+    font-size: medium;
+
+}
+
+.bgtxtpara {
+    padding-top: 30px;
+    color: whitesmoke;
+}
+
+.idkkonsaparahai {
+    text-align: center;
+}
+
+.bgtxt0 {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+.bgtxt9 {
+    color: #C9CFDD;
+    font-size: medium;
+    text-align: center;
+}
+
+.download-btn4 {
+    border: 0.1px solid white;
+    border-radius: 70px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    background-color: transparent;
+    color: #F4F4F4;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.download-btn4:hover {
+    background-color: rgb(35, 39, 58);
+    transition: 0.2s;
+}
+
+.bigdihahh {
+    color: black;
+    background-color: white;
+    border: 1px solid yellow;
+    align-content: center;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 15px;
+    letter-spacing: normal;
+    line-height: 40px;
+    font-weight: bold;
+    height: 110px;
+}
+
+.imgqrw {
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+    margin-right: 10px;
+}
+
+
+.header-text-container {
+    margin-top: 10em;
+}
+
+.ul-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ul-container ul li {
+    list-style-image: url(./bullet.svg);
+    color: white;
+}
+
+.ul-container ul li::marker {
+    color: #0577DA;
+    background-color: white;
+}
+
+.download-btnn {
+    border: 0.1px solid white;
+    border-radius: 70px;
+    padding: 5px 20px 10px 20px;
+    background-color: transparent;
+    color: #F4F4F4;
+
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.download-btnn:hover {
+    cursor: pointer;
+    background-color: rgb(35, 39, 58);
+}
+
+.header-text-container2 {
+    margin-top: 10em;
+}
+
+.smltgs {
+    color: #7D7D7D;
+
+}
+
+.download-btnn7 {
+    border: 0.1px solid white;
+    border-radius: 70px;
+    padding: 5px 20px 10px 20px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.download-btnn7:hover {
+    cursor: pointer;
+    transition: 0.2s;
+    background-color: black;
+    color: white;
+}
+
+.defi-btns {
+    display: flex;
+}
+
+.defi-para {
+    color: #7D7D7D;
+}
+
+/* .idkkonsaparahai1 {
+    text-align: center;
+} */
+
+.ptanhyiii1 {
+    color: white;
+    font-weight: bold;
+    font-size: 85;
+
+}
+
+/* .ptanhyiii1 h1 {
+    text-align: center;
+} */
+
+.defi-imag {
+    /* margin-right: 100px; */
+    /* width: 745px;
+    height: 1158px; */
+}
+
+.defi-btnn {
+    border: 0.1px solid black;
+    border-radius: 70px;
+    padding: 5px 20px 10px 20px;
+    background-color: white;
+    color: black;
+
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.defi-btnn:hover {
+    cursor: pointer;
+    background-color: rgb(35, 39, 58);
+    transition: 0.2s;
+}
+
+.defi-btnn2 {
+    border: 0.1px solid white;
+    border-radius: 70px;
+    padding: 5px 20px 10px 20px;
+    background-color: #00254F;
+    color: #F4F4F4;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.defi-btnn2:hover {
+    cursor: pointer;
+}
+
+.cryptologo {
+    text-align: center;
+}
+
+.cryptologoimag {
+    width: 600px;
+    height: 600px;
+}
+
+
+.founduser {
+    display: flex;
+    text-align: center;
+    color: white;
+}
+
+.download-btn2hehe {
+    border: 0.1px solid white;
+    border-radius: 70px;
+    padding: 5px 20px 10px 20px;
+    background-color: transparent;
+    color: #F4F4F4;
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 16px;
+}
+
+.download-btn2hehe:hover {
+    cursor: pointer;
+    background-color: rgb(35, 39, 58);
+}
+
+.Contactus {
+    color: #1199FA;
+    border: none;
+    background-color: transparent;
+}
+
+.Contactus:hover {
+    cursor: pointer;
+}
+
+.crypto-footer {
+    color: white;
+    background-color: transparent;
+    border: none;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.footer1 {
+    display: flex;
+
+}
+
+.logobtns {
+    border: 1px solid gray;
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: transparent;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.logobtns:hover {
+    border-color: white;
+    cursor: pointer;
+}
+
+.cmgsoon{
+    color: #1199FA;
+    font-size: 10px;
+    padding-top: 6px;
+    padding-left: 6px;
+}
+
+.crbtn{
+
+   margin: 20px;
+    border: none;
+    font-weight: bolder;
+    display: flex;
+    flex: none;
+    color: white;
+    background-color: transparent;
+}
+
+
+.mainfooterhead{
+    color: white;
+    font-size: 20px;
+}
+
+
+.Featuresbtns{
+    display: flex;
+    /* flex: none; */
+}
+
+.innerbtn{
+    border: none;
+    color: #C9CFDD;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.footer{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footerulli {
+  list-style: none;
+  padding-left: 0 !important;
+
+}
+
+.footer-col ul li {
+  padding: 0px 50px 0px 0px;
+    color: #C9CFDD;
+}
+
+.footerheheh{
+    display: flex;
+    flex-direction: row;
+}
+
+.img-footerhead{
+    color: white;
+    font-weight: bolder;
+    /* text-align: center; */
+}
+
+.footerimgedt{
+    width: 96px;
+    height: 96px;
+}
+
+.footerparagraph{
+    color: #A0A9BE;
+    font-weight: bold;
+    font-size: 12px;
+    width: 800px;
+    /* padding: 20px 0px 20px 0px; */
+    height: 48.8px;
+}
+
+.lastleastbtn{
+    color: #A0A9BE;
+    border: none;
+  
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.comapniessponsership{
+    width: 80px;
+    height: 81px;
+}
