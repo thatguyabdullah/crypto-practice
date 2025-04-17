@@ -87,10 +87,11 @@
 }
 
 .iphone {
-    width: 470px;
+    width: 15em;
+    /* width: 470px;
     height: 940px;
     margin-top: 15%;
-    margin-bottom: 15%;
+    margin-bottom: 15%; */
 }
 
 /* .imgphone {} */
@@ -183,7 +184,7 @@
 .fbg2 {
     border: 2px solid lightslategray;
     border-radius: 20px;
-    height: 510px;
+    height: 490px;
     padding: 10%;
     justify-items: center;
     background-image: url(images/dual-invest-mobile.webp);
@@ -354,6 +355,7 @@
     /* margin-right: 100px; */
     /* width: 745px;
     height: 1158px; */
+    width: 80%;
 }
 
 .defi-btnn {
@@ -536,9 +538,6 @@
     color: #A0A9BE;
     font-weight: bold;
     font-size: 12px;
-    width: 800px;
-    /* padding: 20px 0px 20px 0px; */
-    height: 48.8px;
 }
 
 .lastleastbtn{
